@@ -1,0 +1,1 @@
+Upper_Case: ABCDEFGHIJKLMNOPQRSTUVWXYZ  Lower_Case: abcdefghijklmnopqrstuvwxyz  Digit: 0123456789
